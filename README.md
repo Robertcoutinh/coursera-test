@@ -1,3 +1,5 @@
 # coursera-test
 Coursera test repository
-modue-2-solution
+module-2-solution
+module-3-solution
+module-4-solution
